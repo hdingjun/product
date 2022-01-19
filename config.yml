@@ -1,0 +1,8 @@
+user_name:
+password:
+addr:
+port:
+database: 
+max_lifetime: 10
+max_open_conns: 10
+max_idle_conns: 10
